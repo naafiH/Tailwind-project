@@ -12,7 +12,7 @@ export default function footer() {
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 text-gray-300 gap-8 bg-black'>
         <div>
             <h6 className='w-full text-3xl font-bold text-blue-600 m-4'>Tailwind.</h6>
-            <p className='py-4'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto officia omnis dignissimos facere.</p>
+            <p className='py-4'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto officia omnis dignissi</p>
             <div className='flex justify-between my-6 md:w-[75%]'>
                 <FaFacebookSquare size={30}/>
                 <FaGithubSquare size={30}/>

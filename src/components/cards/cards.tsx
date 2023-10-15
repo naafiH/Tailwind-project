@@ -31,12 +31,12 @@ export default function cards() {
             src={Img2}
             alt="/"
           />
-          <h2 className="text-2xl font-bold text-center py-4">user1</h2>
-          <p className="text-center text-4xl font-bold">$234</p>
+          <h2 className="text-2xl font-bold text-center py-4">user2</h2>
+          <p className="text-center text-4xl font-bold">$334</p>
           <div className="text-center">
-            <p className="py-2 border-b mx-8 mt-8">500 gb storage</p>
-            <p className="py-2 border-b mx-8">500 gb storage</p>
-            <p className="py-2 border-b mx-8">500 gb storage</p>
+            <p className="py-2 border-b mx-8 mt-8">700 gb storage</p>
+            <p className="py-2 border-b mx-8">700 gb storage</p>
+            <p className="py-2 border-b mx-8">700 gb storage</p>
           </div>
           <button className="bg-blue-500 w-[200px] rounded-md font-mono my-6 mx-auto py-3 text-white">start trial</button>
         </div>
@@ -48,12 +48,12 @@ export default function cards() {
             src={Img2}
             alt="/"
           />
-          <h2 className="text-2xl font-bold text-center py-4">user1</h2>
-          <p className="text-center text-4xl font-bold">$234</p>
+          <h2 className="text-2xl font-bold text-center py-4">user3</h2>
+          <p className="text-center text-4xl font-bold">$434</p>
           <div className="text-center">
-            <p className="py-2 border-b mx-8 mt-8">500 gb storage</p>
-            <p className="py-2 border-b mx-8">500 gb storage</p>
-            <p className="py-2 border-b mx-8">500 gb storage</p>
+            <p className="py-2 border-b mx-8 mt-8">1000 gb storage</p>
+            <p className="py-2 border-b mx-8">1000 gb storage</p>
+            <p className="py-2 border-b mx-8">1000 gb storage</p>
           </div>
           <button className="bg-blue-500 w-[200px] rounded-md font-mono my-6 mx-auto py-3 text-white">start trial</button>
         </div>

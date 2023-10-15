@@ -9,8 +9,8 @@ export default function header() {
     setNav(!nav);
   };
   return (
-    <div className="flex justify-between items-center max-w-[1240px] mx-auto px-4 h-20">
-      <h1 className="w-full text-3xl font-bold text-blue-600">Tailwind</h1>
+    <div className="flex justify-between items-center capitalize max-w-[1240px] mx-auto px-4 h-20">
+      <h1 className="w-full text-3xl font-bold text-blue-600">Kalathingal</h1>
       <ul className="hidden md:flex">
         <li className="p-4">HOME</li>
         <li className="p-4">Company</li>
@@ -28,8 +28,8 @@ export default function header() {
             : "fixed left-[-100%] "
         }
       >
-        <h1 className="w-full text-3xl font-bold text-blue-600 m-4">
-          Tailwind
+        <h1 className="w-full capitalize text-3xl font-bold text-blue-600 m-4">
+          Kalathingal
         </h1>
 
         <ul className="p-4 uppercase">

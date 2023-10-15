@@ -12,12 +12,12 @@ export default function Home() {
         </h1>
         <div className="flex justify-center py-4">
           <p className="text-zinc-600 md:text-5xl sm:text-3xl text-xl ">
-            Fast , Flexible , Easy , for.. 
+            Fast , Flexible , Easy , For.. 
           </p>
-          <Typed className="text-zinc-600 md:text-5xl sm:text-3xl text-xl md:pl-4 pl-3" strings={["BTB", "BTC", "SASS"]} typeSpeed={120} backSpeed={140} loop/>
+          <Typed className="text-zinc-600 md:text-5xl sm:text-3xl text-xl md:pl-4 pl-3" strings={["Edit", "React", "Webdev"]} typeSpeed={120} backSpeed={140} loop/>
         </div>
-        <p className=" md:text-2xl text-sm font-bold text-gray-500 p-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, quo? Optio iusto ipsum voluptates nobis non fugiat ut, itaque, consequatur impedit quis id at eius officia dolore officiis ducimus ipsam.</p>
-        <button className="bg-blue-500 w-[200px] rounded-md font-mono my-6 mx-auto py-3 text-white">Get Started</button>
+        <p className=" md:text-2xl text-sm font-bold text-gray-500 p-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, quo? Optio iusto ipsum voluptates nobis non fugiat ut, itaque, consequatur impedit quis id at eius officia dolore officiis ducimus </p>
+        <button className="bg-blue-500 w-[200px] rounded-md font-mono my-6 mx-auto py-3 text-white">Start Now</button>
 
       </div>
     </div>
